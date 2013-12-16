@@ -99,6 +99,7 @@ public class TrieTree {
 		tree.search("goa",5);
 		
 	}
+	
 }
 class TrieNode{
 	public TrieNode[] subNodes;
